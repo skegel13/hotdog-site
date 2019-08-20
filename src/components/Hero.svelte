@@ -2,6 +2,8 @@
   .hero {
     align-items: center;
 		background-color: #FFF59d;
+		border-bottom: 1px solid #FDD835;
+		border-top: 1px solid #FDD835;
     display: flex;
     flex-direction: column;
 		justify-content: center;

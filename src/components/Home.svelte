@@ -1,6 +1,5 @@
 <style>
 	.home {
-		border-top: 1px solid #FDD835;
 		padding: 2rem 1rem;
 	}
 
