@@ -7,6 +7,8 @@
 </script>
 
 <Header />
-<Hero />
-<Home />
+<main>
+	<Hero />
+	<Home />
+</main>
 <Footer />
